@@ -1,0 +1,16 @@
+_HiStOrY_V2_
+sad
+:q
+$adsId\040=\040AdsId::first();
+$adsId->save()
+$adsId\040=\040AdsId::all();
+$adsId\040=\040AdsId::where(ads_id:\040"382779032330774_448052565803420")->first();
+$adsId\040=\040AdsId::where(["ads_id"\040=>\040"382779032330774_448052565803420"])->first();
+$adsId->priority\040=\0403
+$adsId->save()
+User::last()
+User::all()
+User::find
+User::find(15)->delete()
+User::all()
+Space::all()
